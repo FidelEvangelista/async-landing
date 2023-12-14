@@ -15,3 +15,9 @@ git commit -m "Nuevo cambio en la rama"
 
 
 git push origin nombre-de-tu-rama
+
+
+Si no estás familiarizado con el editor abierto, 
+puedes intentar presionar i para entrar en el modo de inserción, 
+escribe tu mensaje y luego presiona Esc seguido de :wq (en Vim) 
+o sigue las instrucciones que te indique el editor para guardar y salir.
