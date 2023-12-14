@@ -1,0 +1,17 @@
+1.- nos situamos en nuestra ruta del proyecto
+
+2.- git checkout -b nombre-de-tu-rama
+
+3.- git add .
+git commit -m "Descripción de tus cambios"
+git push origin nombre-de-tu-rama
+
+
+4.- en gitHub Autorizamos los cambios
+
+//PARA SEGUIR PROTEGIENDO cambios
+git add .
+git commit -m "Nuevo cambio en la rama"
+
+
+git push origin nombre-de-tu-rama
